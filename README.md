@@ -1,9 +1,7 @@
-<h1 align="center">Hola 💗, I'm Rayya!</h1>
-<h3 align="center">A junior frontend engineer and UI designer. Looking for job opportunities that provide opportunities for growth.</h3>
+<h1 align="center">Hola, I'm Rayya!</h1>
+<h3 align="center">🌈 Colors of Code, Rainbow of Fun | Spreading UI Love, One Line at a Run 🌈 </h3>
 
-- 🌱 I’m currently learning **React, Next.js, Typescript, tailwindcss, and Figma**
-
-- 💬 Ask me about **Web design**
+- 🌱 I’m currently learning **React, Next.js, and UI Design**
 
 - 📫 How to reach me **raturayya08@gmail.com**
 
